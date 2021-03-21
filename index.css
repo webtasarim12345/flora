@@ -1,0 +1,167 @@
+@charset "utf-8";
+body{
+	background:#000;
+}
+#menu{
+	margin-top:15px;
+}
+#logo{
+	margin-left:55px;
+	font-family:quicksand;
+}
+.navbar-brand{
+	font-size:32px;
+}
+.carousel-item{
+	width:auto;
+	height:600px;
+}
+#altmenu{
+	float:right;
+	padding:15px;
+	font-size:16px;
+}
+#rsm{
+	background:url(img/ana1.fw.png);
+	width:1200px;
+	height:600px;
+	text-align:center;
+	margin-left:70px;
+	padding-top:100px;
+}
+#rsm h1{
+	text-align:center;
+	font-family:quicksand;
+	color:#FFF;
+	font-size:70px;
+	padding-top:110px;
+}
+#rsm p{
+	text-align:center;
+	color:#FFF;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+}
+#banner{
+	background:url(img/tarihce.fw.png);
+	padding:40px;
+	margin:60px;
+}
+#banner h3{
+	text-align:center;
+	font-family:calligraffitti;
+	font-size:40px;
+}
+.metin{
+	text-align:center;
+	font-family:quicksand;
+	color:#FFF;
+}
+h2{
+	font-family:quicksand;
+}
+p{
+	font-family:quicksand;
+}
+#adres h1{
+	text-align:center;
+	color:#003;
+}
+iframe{
+	width:98%;
+	height:350px;
+	margin:10px;
+	margin-top:20px;
+	border:0;
+	border-radius:5px;
+	padding:20px;
+	}
+.ortala{
+	width:940;
+	height:470px;
+	margin-top:30px;
+	padding:30px;
+	box-sizing:border-box;
+	text-align:center;
+	padding:0px 400px;
+	color:#FFF;
+	background:url(img/ileti%C5%9Fim.png) no-repeat center;
+}
+.ortala h2{
+	text-align:center;
+	padding-top:60px;
+	color:#FFF;
+	font-family:quicksand;
+}
+.sil{
+    clear:both;
+}
+.card{
+	height:450px;
+	width:400px;
+	border:1px solid #000;
+	border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+	color:#FFF;
+	background-color:#000;
+	float:left;
+	margin-left:40px;
+	padding-top:15px;
+}
+h3{
+	font-family:quicksand;
+	color:#FFF;
+	margin-top:30px;
+}
+.cardhr{
+	text-align:center;
+	color:#FFF;
+	font-size:2px;
+}
+.cardp{
+	text-align:center;
+	color:#FFF;
+}
+#servis{
+	border:3px #FFF;
+}
+.card1{
+	height:450px;
+	width:400px;
+	color:#FFF;
+	background-color:#000;
+	float:left;
+	margin:0 75px 0 75px;
+	padding-top:20px;
+}
+.bas{
+	padding-top:35px;
+	font-family:quicksand;
+}
+.bas1{
+	font-family:miss-fajardose;
+	color:#FFF;
+}
+#iletisim{
+	margin-top:10px;
+}
+.mb-5{
+	color:#FFF;
+}
+.col-md-2{
+	color:#FFF;
+}
+footer{
+    background-color:#000;
+    color:white;
+    height:350px;
+    text-align:center;
+    padding-top:50px;
+}
+footer a{
+    text-decoration:none;
+    color:white;
+}
+footer a:hover{
+    color:#003666;
+}
+/* CSS Document */

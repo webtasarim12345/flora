@@ -1,0 +1,4 @@
+Yiyecek Adını Buraya Girin
+Burada yiyecek açıklamanız yer alır. 
+Kullanılan malzemeleri, besin değerlerini
+ve diğer bilgileri içeren genel bir açıklama yazın.
